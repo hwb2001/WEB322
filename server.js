@@ -12,7 +12,6 @@
 * 
 ********************************************************************************/ 
 
-
 const legoData = require("./public/js/legoSets");
 const authData = require("./public/js/auth-service");
 const express = require('express'); 
